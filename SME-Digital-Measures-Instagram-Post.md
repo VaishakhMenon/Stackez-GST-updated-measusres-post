@@ -26,15 +26,14 @@ What Singapore's latest measures mean for **your** SME.
 **Headline:**
 Your Invoicing Is Going Digital — Start Now and **Get Paid** to Do It
 
-**Body (SME perspective):**
-By April 2031, all GST-registered businesses must submit digital invoices via InvoiceNow. That's **90,000+ businesses** making the switch.
-
-The good news? The Government is offering **free InvoiceNow-ready solutions** and cash grants to help you get started early.
+**Key points:**
+- By April 2031, all GST-registered businesses must use InvoiceNow — **90,000+** making the switch
+- Government offering **free InvoiceNow-ready solutions** and cash grants to get you started early
 
 **Why it matters to you:**
-Early movers get support. Late movers scramble. The clock is already ticking.
+Early movers get support. Late movers scramble.
 
-> **Designer notes:** Bold "Get Paid", "90,000+", and "free InvoiceNow-ready solutions". Use a timeline or countdown visual to convey urgency. Keep the tone helpful, not alarming.
+> **Designer notes:** Bold "Get Paid", "90,000+", and "free InvoiceNow-ready solutions". Timeline or countdown visual to convey urgency.
 
 ---
 
@@ -43,18 +42,15 @@ Early movers get support. Late movers scramble. The clock is already ticking.
 **Headline:**
 Up to **$5,000** on the Table — Don't Leave It There
 
-**Body (SME perspective):**
-The Government is offering cash grants to offset your transition costs:
-
+**Key points:**
 - Larger businesses: up to **$5,000**
 - Smaller companies: up to **$1,000**
-
-On top of that, **free digital invoicing solutions** are being made available so you don't have to build from scratch.
+- Plus **free digital invoicing solutions** — no need to build from scratch
 
 **Why it matters to you:**
-This is money set aside specifically for your business to go digital. The sooner you act, the smoother (and cheaper) your transition.
+Money set aside for your business to go digital. Act early, transition smoothly.
 
-> **Designer notes:** Bold the dollar amounts prominently — they're the anchor of this slide. Use a clean two-tier layout (e.g., two boxes side by side) for the grant tiers. Consider a visual cue like a hand receiving money or a simple grant icon. The tone should feel like an opportunity, not a policy briefing.
+> **Designer notes:** Bold dollar amounts prominently. Two-tier layout (two boxes) for grant tiers. Tone: opportunity, not policy briefing.
 
 ---
 
@@ -63,18 +59,15 @@ This is money set aside specifically for your business to go digital. The sooner
 **Headline:**
 **$20 Back** on Every Invoice — That Adds Up Fast
 
-**Body (SME perspective):**
-A Deloitte study found that small businesses can save up to **$20 per invoice** by switching to digital invoicing — less manual data entry, fewer errors, faster payments.
-
-**Do the maths:**
-100 invoices a month = **$24,000 saved a year.**
-
-Plus, InvoiceNow's e-invoicing standard is accepted internationally — making cross-border transactions simpler for your business.
+**Key points:**
+- Deloitte study: up to **$20 saved per invoice** — fewer errors, faster payments
+- 100 invoices/month = **$24,000 saved a year**
+- InvoiceNow's standard is accepted internationally — simpler cross-border transactions
 
 **Why it matters to you:**
-This isn't a one-time benefit. It's money back in your pocket every single month.
+Not a one-time benefit. Money back in your pocket every month.
 
-> **Designer notes:** Bold "$20 Back", "$24,000 saved a year", and "every single month". The $24,000 figure should be the visual centrepiece — make it large and impossible to miss. Consider a simple calculator or savings-stack graphic. This is the slide that makes people stop scrolling.
+> **Designer notes:** Bold "$20 Back" and "$24,000 saved a year" — make the $24K figure the visual centrepiece. Savings-stack or calculator graphic. This is the scroll-stopper.
 
 ---
 
@@ -83,19 +76,16 @@ This isn't a one-time benefit. It's money back in your pocket every single month
 **Headline:**
 Govt Contracts Up to **$1 Million** — Now Open to Small Teams
 
-**Body (SME perspective):**
-Tender Lite is launching in April for ICT contracts up to $1 million — with simpler conditions designed for businesses like yours:
-
-- **No track record required** to participate
-- **No security deposits** needed
-- **~90% of govt contracts** will have simpler terms
-
-The Innovative Procurement Partnership is also now open to SMEs and start-ups — no established track record needed.
+**Key points:**
+- Tender Lite launching April — ICT contracts up to $1M, simpler conditions
+- **No track record required**, **no security deposits**
+- **~90% of govt contracts** getting simpler terms
+- Innovative Procurement Partnership now open to SMEs and start-ups
 
 **Why it matters to you:**
-Government contracts used to feel out of reach for small businesses. That barrier just got a lot lower.
+Government contracts used to feel out of reach. That barrier just got a lot lower.
 
-> **Designer notes:** Bold "$1 Million", "No track record required", "No security deposits", and "90%". Use a visual metaphor of doors opening or barriers being removed. This slide should feel empowering — the message is "this is now for you too."
+> **Designer notes:** Bold "$1 Million", "No track record required", "No security deposits", "90%". Doors-opening or barrier-removal visual. Tone: empowering.
 
 ---
 
@@ -104,32 +94,28 @@ Government contracts used to feel out of reach for small businesses. That barrie
 **Headline:**
 Going Digital Shouldn't Mean Going It Alone
 
-**Body (SME perspective):**
-New mandates, new systems, new compliance requirements — it's a lot to navigate when you're already running a business.
-
-StackEZ works alongside SMEs to simplify the shift: from digitalising your invoicing and accounting to keeping up with compliance, so you can focus on what you do best — running your business.
+**Body:**
+New mandates, new systems, new compliance — it's a lot when you're already running a business. StackEZ works alongside SMEs to simplify the shift.
 
 **Why it matters to you:**
-You don't need a large back-office team to go digital. You just need the right partner.
+You don't need a big back-office team. You just need the right partner.
 
-> **Designer notes:** StackEZ branded slide. Warm, human tone. No product screenshots or feature lists — this is about the feeling of having support. Consider a visual of a small business owner with a sense of ease or confidence. StackEZ logo visible but not dominant. The message is partnership, not a sales pitch.
+> **Designer notes:** StackEZ branded slide. Warm, human tone. No product screenshots or feature lists. StackEZ logo visible but not dominant. Partnership, not sales pitch.
 
 ---
 
 ### SLIDE 7 — StackEZ: Built for the Way SMEs Work
 
 **Headline:**
-When the Government Pushes for Digitalisation, SMEs Need Tools That Actually Fit
+SMEs Need Tools That Actually Fit
 
-**Body (SME perspective):**
-Singapore is investing in digital infrastructure, simpler procurement, and AI-powered systems. These are opportunities — but only if your business is set up to take advantage of them.
-
-StackEZ is aligned with Singapore's digital transformation push, helping SMEs stay compliant, stay competitive, and unlock new growth — whether that's going paperless, accessing government tenders, or streamlining operations.
+**Body:**
+Singapore is investing in digital infrastructure, simpler procurement, and AI-powered systems. StackEZ helps SMEs stay compliant, stay competitive, and unlock new growth.
 
 **Why it matters to you:**
-The landscape is shifting. StackEZ helps you move with it — not scramble to catch up.
+The landscape is shifting. Move with it — not scramble to catch up.
 
-> **Designer notes:** StackEZ branded slide. Forward-looking, confident tone. Consider a visual that conveys growth or forward motion (e.g., upward trend, a path ahead). StackEZ logo present. This slide bridges the government's vision with the SME owner's reality. No feature lists — keep it aspirational and grounded.
+> **Designer notes:** StackEZ branded slide. Forward-looking, confident tone. Growth or forward-motion visual. StackEZ logo present. No feature lists — aspirational and grounded.
 
 ---
 
