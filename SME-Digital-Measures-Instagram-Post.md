@@ -136,13 +136,13 @@ Source: Parliamentary debate on MOF budget, 26 Feb 2026.
 
 ## Caption
 
-Grant funding, simpler govt contracts, and real savings on every invoice — Singapore just made going digital a no-brainer for SMEs.
+💰 Grant funding, simpler govt contracts, and real savings on every invoice. Singapore just made going digital a no-brainer for SMEs.
 
-Swipe to see the 4 things every SME owner should know. >>
+👉 Swipe to see the 4 things every SME owner should know.
 
-Source: Parliamentary debate on MOF budget, 26 Feb 2026.
+📌 Source: Parliamentary debate on MOF budget, 26 Feb 2026.
 
-Follow us for more updates that actually matter to your business.
+🔔 Follow us for more updates that actually matter to your business.
 
 #Singapore #SMEs #InvoiceNow #DigitalTransformation #StackEZ #SmallBusiness #Productivity #GoDigital #TenderLite #GovTech
 
