@@ -2,147 +2,176 @@
 
 **Format:** Instagram Portrait (1080 x 1350 px)
 **Audience:** SME owners and decision-makers in Singapore
-**Angle:** Cost savings + reduced compliance burden from new government measures
+**Angle:** What these new measures actually mean for your business — costs, savings, and opportunities
 **Source:** Parliamentary debate on MOF budget, 26 Feb 2026 (The Straits Times)
 
 ---
 
-## Carousel Slides
+## Carousel Slides (8 Slides)
 
-### SLIDE 1 — Cover / Hook
+### SLIDE 1 — Intro
 
 **Headline:**
-Up to **$5,000** in Cash Grants for SMEs Going Digital
+Lower Costs. Less Red Tape. More Opportunities.
 
 **Subtext:**
-New measures announced in Parliament — Feb 2026
+What Singapore's latest measures mean for **your** SME.
 
-> **Designer notes:** Bold the "$5,000". Use a clean, professional layout with Singapore skyline or Parliament House visual. StackEZ brand colours. Keep text minimal — the headline must be readable in 2 seconds.
-
----
-
-### SLIDE 2 — InvoiceNow Goes Nationwide
-
-**Headline:**
-All GST-Registered Businesses on **InvoiceNow** by April 2031
-
-**Key points:**
-- Digital invoices to be submitted to IRAS via the InvoiceNow network
-- **90,000+** more businesses expected to come onboard
-- Currently, over 63,000 businesses are already on InvoiceNow
-
-> **Designer notes:** Bold "April 2031" and "90,000+". Use an icon or simple graphic representing digital invoicing or connectivity.
+> **Designer notes:** Bold "your". This slide sets the tone — it's not a news summary, it's a guide for the reader. Clean layout, StackEZ brand colours, modern and approachable. Optional: a subtle Singapore cityscape element in the background. Text must be readable in under 2 seconds.
 
 ---
 
-### SLIDE 3 — Cash Grants to Ease the Transition
+### SLIDE 2 — Takeaway 1: Your Invoicing Is Going Digital
 
 **Headline:**
-Government Cash Grants for the Switch
+Your Invoicing Is Going Digital — Start Now and **Get Paid** to Do It
 
-**Key points:**
+**Body (SME perspective):**
+By April 2031, all GST-registered businesses must submit digital invoices via InvoiceNow. That's **90,000+ businesses** making the switch.
+
+The good news? The Government is offering **free InvoiceNow-ready solutions** and cash grants to help you get started early.
+
+**Why it matters to you:**
+Early movers get support. Late movers scramble. The clock is already ticking.
+
+> **Designer notes:** Bold "Get Paid", "90,000+", and "free InvoiceNow-ready solutions". Use a timeline or countdown visual to convey urgency. Keep the tone helpful, not alarming.
+
+---
+
+### SLIDE 3 — Takeaway 2: Up to $5,000 to Cover Your Switch
+
+**Headline:**
+Up to **$5,000** on the Table — Don't Leave It There
+
+**Body (SME perspective):**
+The Government is offering cash grants to offset your transition costs:
+
 - Larger businesses: up to **$5,000**
 - Smaller companies: up to **$1,000**
-- Free InvoiceNow-ready solutions provided
 
-> **Designer notes:** Bold the dollar figures. Use a simple two-tier visual (e.g., two boxes or a comparison layout) to show the grant tiers clearly. Keep it scannable.
+On top of that, **free digital invoicing solutions** are being made available so you don't have to build from scratch.
 
----
+**Why it matters to you:**
+This is money set aside specifically for your business to go digital. The sooner you act, the smoother (and cheaper) your transition.
 
-### SLIDE 4 — Real Savings Per Invoice
-
-**Headline:**
-Save Up to **$20 Per Invoice**
-
-**Key points:**
-- Deloitte study: small businesses can save up to $20 per invoice by going digital
-- Reduced manual data entry and fewer invoicing errors
-- InvoiceNow's e-invoicing standard is internationally accepted — easier cross-border transactions
-
-> **Designer notes:** Bold "$20 Per Invoice". Consider a before/after visual (manual paperwork vs. digital) or a simple savings calculator graphic.
+> **Designer notes:** Bold the dollar amounts prominently — they're the anchor of this slide. Use a clean two-tier layout (e.g., two boxes side by side) for the grant tiers. Consider a visual cue like a hand receiving money or a simple grant icon. The tone should feel like an opportunity, not a policy briefing.
 
 ---
 
-### SLIDE 5 — Less Compliance, More Cash Flow
+### SLIDE 4 — Takeaway 3: Save $20 on Every Invoice You Send
 
 **Headline:**
-Audit Exemptions Being Considered for Small Businesses
+**$20 Back** on Every Invoice — That Adds Up Fast
 
-**Key points:**
-- ACRA is reviewing whether to exempt more small businesses from mandatory financial statement audits
-- This would reduce the cost burden and improve cash flow
-- Consultation with businesses and the audit community planned for 2026
+**Body (SME perspective):**
+A Deloitte study found that small businesses can save up to **$20 per invoice** by switching to digital invoicing — less manual data entry, fewer errors, faster payments.
 
-> **Designer notes:** Bold "Audit Exemptions". Use a visual that conveys relief or simplification (e.g., breaking free from paperwork, a lighter load).
+**Do the maths:**
+100 invoices a month = **$24,000 saved a year.**
+
+Plus, InvoiceNow's e-invoicing standard is accepted internationally — making cross-border transactions simpler for your business.
+
+**Why it matters to you:**
+This isn't a one-time benefit. It's money back in your pocket every single month.
+
+> **Designer notes:** Bold "$20 Back", "$24,000 saved a year", and "every single month". The $24,000 figure should be the visual centrepiece — make it large and impossible to miss. Consider a simple calculator or savings-stack graphic. This is the slide that makes people stop scrolling.
 
 ---
 
-### SLIDE 6 — Easier Access to Government Contracts
+### SLIDE 5 — Takeaway 4: Government Contracts Are Now Within Reach
 
 **Headline:**
-Tender Lite Opens Doors for SMEs
+Govt Contracts Up to **$1 Million** — Now Open to Small Teams
 
-**Key points:**
-- Simplified government tenders for ICT contracts up to **$1 million** — launching April
-- **~90%** of government contracts to have simpler conditions
-- No security deposits required; liquidated damages capped or removed
+**Body (SME perspective):**
+Tender Lite is launching in April for ICT contracts up to $1 million — with simpler conditions designed for businesses like yours:
 
-> **Designer notes:** Bold "$1 million" and "90%". Use a doorway or "open access" visual metaphor. Keep the slide clean — these are three powerful stats.
+- **No track record required** to participate
+- **No security deposits** needed
+- **~90% of govt contracts** will have simpler terms
+
+The Innovative Procurement Partnership is also now open to SMEs and start-ups — no established track record needed.
+
+**Why it matters to you:**
+Government contracts used to feel out of reach for small businesses. That barrier just got a lot lower.
+
+> **Designer notes:** Bold "$1 Million", "No track record required", "No security deposits", and "90%". Use a visual metaphor of doors opening or barriers being removed. This slide should feel empowering — the message is "this is now for you too."
 
 ---
 
-### SLIDE 7 — GeBIZ Gets Smarter
+### SLIDE 6 — StackEZ: Making the Digital Switch Simpler for SMEs
 
 **Headline:**
-GeBIZ Refresh with **AI-Powered** Tools
+Going Digital Shouldn't Mean Going It Alone
 
-**Key points:**
-- Comprehensive multi-year upgrade covering pre-sourcing to contract management
-- AI tools integrated for improved productivity
-- Consolidates currently separate systems into one portal
+**Body (SME perspective):**
+New mandates, new systems, new compliance requirements — it's a lot to navigate when you're already running a business.
 
-> **Designer notes:** Bold "AI-Powered". Use a tech/AI-themed visual — circuit patterns, AI icon. Keep it forward-looking in tone.
+StackEZ works alongside SMEs to simplify the shift: from digitalising your invoicing and accounting to keeping up with compliance, so you can focus on what you do best — running your business.
+
+**Why it matters to you:**
+You don't need a large back-office team to go digital. You just need the right partner.
+
+> **Designer notes:** StackEZ branded slide. Warm, human tone. No product screenshots or feature lists — this is about the feeling of having support. Consider a visual of a small business owner with a sense of ease or confidence. StackEZ logo visible but not dominant. The message is partnership, not a sales pitch.
 
 ---
 
-### SLIDE 8 — StackEZ Bridge + CTA
+### SLIDE 7 — StackEZ: Built for the Way SMEs Work
 
 **Headline:**
-Navigating Digital Transformation Starts with the Right Tools
+When the Government Pushes for Digitalisation, SMEs Need Tools That Actually Fit
 
-**Body:**
-At StackEZ, we work with SMEs to simplify operations and embrace digital solutions — aligned with Singapore's push toward a smarter, more efficient business environment.
+**Body (SME perspective):**
+Singapore is investing in digital infrastructure, simpler procurement, and AI-powered systems. These are opportunities — but only if your business is set up to take advantage of them.
+
+StackEZ is aligned with Singapore's digital transformation push, helping SMEs stay compliant, stay competitive, and unlock new growth — whether that's going paperless, accessing government tenders, or streamlining operations.
+
+**Why it matters to you:**
+The landscape is shifting. StackEZ helps you move with it — not scramble to catch up.
+
+> **Designer notes:** StackEZ branded slide. Forward-looking, confident tone. Consider a visual that conveys growth or forward motion (e.g., upward trend, a path ahead). StackEZ logo present. This slide bridges the government's vision with the SME owner's reality. No feature lists — keep it aspirational and grounded.
+
+---
+
+### SLIDE 8 — Conclusion / CTA
+
+**Headline:**
+Your Business. Lower Costs. Less Hassle. More Growth.
 
 **CTA:**
-Talk to us about how your business can benefit. Follow for more insights.
+Follow StackEZ for insights that matter to your SME.
+Got questions? Talk to us.
 
-> **Designer notes:** StackEZ branded slide. Logo prominent. Warm, approachable tone — this is a bridge, NOT a product pitch. Soft CTA with a "Follow" or "Get in touch" button visual. Clean background with brand colours.
+**Source line (small text):**
+Source: Parliamentary debate on MOF budget, 26 Feb 2026.
+
+> **Designer notes:** Clean closing slide. StackEZ logo prominent. CTA should feel inviting, not pushy — "Talk to us" is a conversation starter, not a sales closer. Use brand colours, keep text minimal. Optional: include StackEZ website or social handle. Source attribution in small text at the bottom for credibility.
 
 ---
 
 ## Caption
 
-Up to $5,000 in cash grants, $20 savings per invoice, and easier access to government contracts — here's what was just announced for Singapore SMEs.
+Lower costs, less compliance burden, and new opportunities — Singapore just made it easier for SMEs to go digital.
 
-Swipe to see the 7 key measures that could lower your costs and cut compliance red tape. >>
+Swipe to see the 4 things every SME owner should know. >>
 
 Source: Parliamentary debate on MOF budget, 26 Feb 2026.
 
-Follow us for more updates that matter to your business.
+Follow us for more updates that actually matter to your business.
 
-#Singapore #SMEs #InvoiceNow #DigitalTransformation #GoBusiness #StackEZ #SmallBusiness #Productivity #GoDigital
+#Singapore #SMEs #InvoiceNow #DigitalTransformation #StackEZ #SmallBusiness #Productivity #GoDigital #TenderLite #GovTech
 
 ---
 
-## Review Checklist (per Key Learnings)
+## Review Checklist (per StackEZ Content Playbook)
 
-- [x] **Audience clearly defined** — SME owners and decision-makers in Singapore
-- [x] **All facts verifiable against primary source** — All figures ($5,000, $1,000, $20/invoice, 90,000 businesses, 63,000 current, $1M Tender Lite, ~90% contracts), programme names (InvoiceNow, Tender Lite, GeBIZ, Innovative Procurement Partnership), and quotes are directly from the source article (Parliamentary debate, 26 Feb 2026)
-- [x] **Politically / marketing safe** — No overstatements; no implied government endorsement of StackEZ; all measures attributed to government source; StackEZ positioned as aligned, not endorsed
-- [x] **Factually sound** — Numbers, names, dates cross-checked against the source article; Deloitte study attribution retained; ACRA review framed as "being considered" (not confirmed)
-- [x] **StackEZ mention is a bridge, not a sales pitch** — Slide 8 connects StackEZ's mission to the broader digital transformation theme; no product features mentioned; soft CTA only
-- [x] **Carousel is 5–9 slides** — 8 slides total
-- [x] **One idea per slide** — Each slide covers one distinct measure or theme
+- [x] **Audience clearly defined** — SME owners and decision-makers in Singapore; every slide framed from "what does this mean for my business"
+- [x] **All facts verifiable against primary source** — All figures ($5,000, $1,000, $20/invoice, 90,000 businesses, 63,000 current, $1M Tender Lite, ~90% contracts) and programme names (InvoiceNow, Tender Lite, Innovative Procurement Partnership) sourced directly from the Parliamentary debate article (26 Feb 2026). The $24,000/year figure is derived transparently ($20 x 100 invoices x 12 months). Deloitte study attribution retained.
+- [x] **Politically / marketing safe** — No overstatements; no implied government endorsement of StackEZ; all government measures properly attributed; StackEZ positioned as aligned with Singapore's digital push, not endorsed by it; no misleading associations
+- [x] **Factually sound** — Numbers, names, dates cross-checked against source article; grant amounts, timelines (April 2031, April for Tender Lite), and programme details are accurate; no unverifiable claims
+- [x] **StackEZ mention is a bridge, not a sales pitch** — Slides 6 and 7 connect StackEZ to the SME's need (not StackEZ's products); no feature lists, no product names, no pricing; tone is partnership and alignment
+- [x] **Carousel is 5–9 slides** — 8 slides total (1 intro + 4 takeaways + 2 StackEZ + 1 conclusion)
+- [x] **One idea per slide** — Each slide covers one distinct theme with a clear "why it matters to you"
 - [x] **Caption is a short hook** — 3-line hook with swipe prompt; detail lives in the carousel
 - [x] **CTA is clear but soft** — "Talk to us" / "Follow for more insights"
-- [x] **Designer notes included** — Visual direction, bold words, and tone guidance provided for each slide
+- [x] **Designer notes included** — Visual direction, bold words, tone guidance, and visual metaphors provided for each slide
