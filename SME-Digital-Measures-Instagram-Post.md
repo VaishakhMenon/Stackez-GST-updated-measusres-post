@@ -24,7 +24,7 @@ What Singapore's latest measures mean for **your** SME.
 ### SLIDE 2 — Takeaway 1: Your Invoicing Is Going Digital
 
 **Headline:**
-Your Invoicing Is Going Digital — Start Now and **Get Paid** to Do It
+Your Invoicing Is Going Digital — Start Now and **Get Funded** to Do It
 
 **Key points:**
 - By April 2031, all GST-registered businesses must use InvoiceNow — **90,000+** making the switch
@@ -33,7 +33,7 @@ Your Invoicing Is Going Digital — Start Now and **Get Paid** to Do It
 **Why it matters to you:**
 Early movers get support. Late movers scramble.
 
-> **Designer notes:** Bold "Get Paid", "90,000+", and "free InvoiceNow-ready solutions". Timeline or countdown visual to convey urgency.
+> **Designer notes:** Bold "Get Funded", "90,000+", and "free InvoiceNow-ready solutions". Timeline or countdown visual to convey urgency.
 
 ---
 
@@ -60,14 +60,14 @@ Money set aside for your business to go digital. Act early, transition smoothly.
 **$20 Back** on Every Invoice — That Adds Up Fast
 
 **Key points:**
-- Deloitte study: up to **$20 saved per invoice** — fewer errors, faster payments
-- 100 invoices/month = **$24,000 saved a year**
+- Deloitte study: up to **$20 saved per invoice** — less paperwork, fewer errors
+- 100 invoices/month = **up to $24,000 saved a year**
 - InvoiceNow's standard is accepted internationally — simpler cross-border transactions
 
 **Why it matters to you:**
 Not a one-time benefit. Money back in your pocket every month.
 
-> **Designer notes:** Bold "$20 Back" and "$24,000 saved a year" — make the $24K figure the visual centrepiece. Savings-stack or calculator graphic. This is the scroll-stopper.
+> **Designer notes:** Bold "$20 Back" and "up to $24,000 saved a year" — make the $24K figure the visual centrepiece. Savings-stack or calculator graphic. This is the scroll-stopper.
 
 ---
 
@@ -77,10 +77,9 @@ Not a one-time benefit. Money back in your pocket every month.
 Govt Contracts Up to **$1 Million** — Now Open to Small Teams
 
 **Key points:**
-- Tender Lite launching April — ICT contracts up to $1M, simpler conditions
-- **No track record required**, **no security deposits**
+- Tender Lite from April — ICT contracts up to $1M, **no security deposits**
 - **~90% of govt contracts** getting simpler terms
-- Innovative Procurement Partnership now open to SMEs and start-ups
+- Innovative Procurement Partnership: **no track record required**, open to any business
 
 **Why it matters to you:**
 Government contracts used to feel out of reach. That barrier just got a lot lower.
@@ -95,7 +94,7 @@ Government contracts used to feel out of reach. That barrier just got a lot lowe
 Going Digital Shouldn't Mean Going It Alone
 
 **Body:**
-New mandates, new systems, new compliance — it's a lot when you're already running a business. StackEZ works alongside SMEs to simplify the shift.
+From AI tools to cloud solutions and grant-ready digital upgrades — StackEZ brings it all together for SMEs.
 
 **Why it matters to you:**
 You don't need a big back-office team. You just need the right partner.
@@ -137,7 +136,7 @@ Source: Parliamentary debate on MOF budget, 26 Feb 2026.
 
 ## Caption
 
-Lower costs, less compliance burden, and new opportunities — Singapore just made it easier for SMEs to go digital.
+Grant funding, simpler govt contracts, and real savings on every invoice — Singapore just made going digital a no-brainer for SMEs.
 
 Swipe to see the 4 things every SME owner should know. >>
 
