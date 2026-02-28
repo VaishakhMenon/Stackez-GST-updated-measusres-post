@@ -127,3 +127,17 @@ Source: Parliamentary debate on MOF budget, 26 Feb 2026
 🔔 Follow us for more updates that actually matter to your business.
 
 #Singapore #SMEs #InvoiceNow #DigitalTransformation #StackEZ #SmallBusiness #Productivity #GoDigital #TenderLite #GovTech
+
+---
+
+## StackEZ Content Playbook
+
+- **Audience clearly defined** — SME owners and decision-makers in Singapore; every slide framed from "what does this mean for my business"
+- **All facts verifiable against primary source** — All figures and programme names must be sourced directly from official sources. Derived figures should be transparently calculated.
+- **Politically / marketing safe** — No overstatements; no implied government endorsement of StackEZ; all government measures properly attributed; StackEZ positioned as aligned with Singapore's digital push, not endorsed by it
+- **Factually sound** — Numbers, names, dates cross-checked against source; no unverifiable claims
+- **StackEZ mention is a bridge, not a sales pitch** — Connect StackEZ to the SME's need, not StackEZ's products; no feature lists, no product names, no pricing; tone is partnership and alignment
+- **Carousel is 5–9 slides** — One idea per slide with a clear "why it matters"
+- **Caption is a short hook** — 3-line hook with swipe prompt; detail lives in the carousel
+- **CTA is clear but soft** — "Talk to us" / "Follow for more insights" — inviting, not pushy
+- **Tone: trusted advisor, not marketing deck** — The overall voice should read like a trusted advisor speaking to an SME owner. Warm, conversational, and direct — not like a corporate pitch or policy briefing. If it sounds like something a helpful friend in the industry would say, it's the right tone.
