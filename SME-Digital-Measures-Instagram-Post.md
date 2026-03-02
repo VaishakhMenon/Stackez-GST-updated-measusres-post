@@ -75,7 +75,7 @@ There's money set aside to help your business go digital. Act early for an easie
 ### SLIDE 4 — Takeaway 3: Save $20 on Every Invoice
 
 **Headline:**
-Save up to $20 on every invoice.
+E-invoicing can save businesses up to $20 per invoice.
 
 **Key points:**
 - Less paperwork. Fewer errors. (Source: Deloitte)
