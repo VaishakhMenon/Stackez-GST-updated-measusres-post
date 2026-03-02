@@ -52,7 +52,7 @@ If you act early, you'll get extra support and benefits.
 ### SLIDE 3 — Takeaway 2: Up to $5,000 in Funding
 
 **Headline:**
-Get up to $5,000 in funding for your business!
+SMEs can access up to $5,000 in government support to go digital.
 
 **Key points:**
 - Larger businesses can get up to $5,000.
@@ -75,14 +75,14 @@ There's money set aside to help your business go digital. Act early for an easie
 ### SLIDE 4 — Takeaway 3: Save $20 on Every Invoice
 
 **Headline:**
-Get $20 back on every invoice you send. Those savings add up fast!
+Save up to $20 on every invoice.
 
 **Key points:**
-- A Deloitte study found businesses can save up to $20 per invoice. That means less paperwork and fewer errors.
-- InvoiceNow's standard is accepted worldwide, making cross-border transactions simpler.
+- Less paperwork. Fewer errors. (Source: Deloitte)
+- Accepted worldwide. Simpler cross-border payments.
 
 **Why it matters:**
-This isn't a one-time perk. You get money back every month.
+Less time on invoices. More time running your business.
 
 **Design Notes (Figma — 1080 x 1350 px):**
 - **Layout:** "$20" as a bold hero stat top-centre. Headline wrapping below it. Two key points as icon + text rows in the middle. "Why it matters" as a bottom callout.
