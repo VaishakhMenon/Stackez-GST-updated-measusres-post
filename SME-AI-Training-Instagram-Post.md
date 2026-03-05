@@ -7,7 +7,7 @@
 
 ---
 
-## Carousel Slides (6 Slides)
+## Carousel Slides (7 Slides)
 
 ### SLIDE 1 — Intro
 
@@ -118,7 +118,30 @@ AI isn't a future thing anymore. Your competitors are already exploring it. The 
 
 ---
 
-### SLIDE 6 — Conclusion / CTA
+### SLIDE 6 — StackEZ: Your Partner for the AI Shift
+
+**Headline:**
+Going digital shouldn't mean going it alone.
+
+**Key points:**
+- New programmes, new subsidies, new tools — it's a lot to keep up with when you're running a business.
+- StackEZ helps SMEs cut through the noise. From AI-ready cloud solutions to grant-supported digital upgrades, we bring the right pieces together so you don't have to figure it out from scratch.
+- Whether you're just getting started or looking to level up, we walk the journey with you.
+
+**Why it matters:**
+You don't need a big IT department. You just need the right partner in your corner.
+
+**Design Notes (Figma — 1080 x 1350 px):**
+- **Layout:** Headline centred in upper third. Three key points as flowing text blocks in the middle. "Why it matters" as a standout quote-style callout in the lower third.
+- **Background:** Warm light background (off-white, light cream, or soft brand tint) — shift the energy from "government info" to "partner/support" tone.
+- **Typography:** Headline in bold (36–42pt), slightly more expressive/human. Key points in regular (20–22pt). "Why it matters" in semi-bold italic or inside a quote-style container with left border accent.
+- **Visual element:** StackEZ branding more prominent — larger logo integrated with the layout. Consider a handshake icon, a partnership illustration, or two abstract shapes connecting. Keep it warm and human.
+- **Colour accent:** StackEZ primary brand colour prominently used (background tint, accent bar, or headline colour). This is where the brand takes centre stage.
+- **Brand elements:** Larger StackEZ logo — not just a watermark. Position it as part of the slide's visual identity.
+
+---
+
+### SLIDE 7 — Conclusion / CTA
 
 **Headline:**
 AI is moving fast. You don't have to figure it out alone.
@@ -165,7 +188,7 @@ Follow us for more updates that matter to your business.
 - **Politically / marketing safe** — No overstatements; no implied government endorsement of StackEZ; all government measures properly attributed; StackEZ positioned as aligned with Singapore's AI push, not endorsed by it
 - **Factually sound** — Numbers, programme names, dates cross-checked against source; no unverifiable claims
 - **StackEZ mention is a bridge, not a sales pitch** — Connect StackEZ to the SME's need, not StackEZ's products; no feature lists, no product names, no pricing; tone is partnership and alignment
-- **Carousel is 6 slides** — One idea per slide with a clear "why it matters"
+- **Carousel is 7 slides** — One idea per slide with a clear "why it matters"
 - **Caption is a short hook** — Brief hook with swipe prompt; detail lives in the carousel
 - **CTA is clear but soft** — "We're here" / "Follow for more" — inviting, not pushy
 - **Tone: trusted advisor, not marketing deck** — Warm, conversational, and direct. Like a helpful friend in the industry telling you what you need to know.
